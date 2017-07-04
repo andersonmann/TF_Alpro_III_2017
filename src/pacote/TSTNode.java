@@ -1,4 +1,4 @@
-package src;
+package pacote;
 
 /**
  ** Java Program to Implement Ternary Search Tree

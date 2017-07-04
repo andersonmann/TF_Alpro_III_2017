@@ -1,4 +1,4 @@
-package src;
+package pacote;
 
 import java.util.NoSuchElementException;
 
